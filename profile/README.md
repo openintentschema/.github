@@ -29,10 +29,10 @@ OIS records intents and their acceptance criteria, the artifacts produced, who o
 | Repository | What's inside | Install |
 |---|---|---|
 | [**openintentschema**](https://github.com/openintentschema/openintentschema) | Specification, JSON Schema, conformance fixtures, profiles, website | – |
-| [**tools**](https://github.com/openintentschema/tools) | Reference CLI `ois`: validator, test report adapters, passports, signing (Python) | `pip install ois-tools` |
-| [**tools-js**](https://github.com/openintentschema/tools-js) | Second validator implementation (Node.js) | `npm install ois-tools` |
+| [**tools**](https://github.com/openintentschema/tools) | Reference CLI `ois`: validator, test report adapters, passports, signing (Python) | `pip install ois-tools` · [PyPI](https://pypi.org/project/ois-tools/) |
+| [**tools-js**](https://github.com/openintentschema/tools-js) | Second validator implementation (Node.js) | `npm install ois-tools` · [npm](https://www.npmjs.com/package/ois-tools) |
 
-The Python tools are also available as a container image for projects in any language: `ghcr.io/openintentschema/ois-tools`
+The Python tools are also available as a container image for projects in any language: `docker pull ghcr.io/openintentschema/ois-tools` · [ghcr.io](https://github.com/orgs/openintentschema/packages/container/package/ois-tools)
 
 ### Try it in 15 minutes
 
