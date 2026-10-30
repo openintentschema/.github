@@ -14,10 +14,9 @@
 <a href="https://www.npmjs.com/package/ois-tools"><img alt="npm" src="https://img.shields.io/npm/v/ois-tools?label=npm&color=blue"></a>
 <a href="https://github.com/openintentschema/openintentschema/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Apache--2.0_·_CC_BY_4.0-green"></a>
 
-**[Website](https://openintentschema.io)** ·
-**[Getting started](https://openintentschema.io/getting-started/)** ·
-**[Specification](https://openintentschema.io/specification/)** ·
-**[Open RFCs](https://github.com/openintentschema/openintentschema/issues?q=label%3Arfc)**
+| [**Website →**](https://openintentschema.io) | [**Getting started →**](https://openintentschema.io/getting-started/) | [**Specification →**](https://openintentschema.io/specification/) | [**Open RFCs →**](https://github.com/openintentschema/openintentschema/issues?q=label%3Arfc) |
+|---|---|---|---|
+| Overview and documentation | First records in 15 minutes | v0.1, working draft | Proposed changes, open for comment |
 
 ## What is OIS?
 
