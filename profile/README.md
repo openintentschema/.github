@@ -1,7 +1,7 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Open Intent Schema: what was asked, what was built, and the proof in between. An open, vendor-neutral data standard that links requirements to independent evidence that software does what was asked, even when AI agents built it." src="assets/banner-light.svg" width="100%">
+  <img alt="Open Intent Schema: what was asked, what was built, and the proof in between" src="assets/banner-light.svg" width="100%">
 </picture>
 </p>
 
