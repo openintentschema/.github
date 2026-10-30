@@ -46,10 +46,8 @@ Then follow **[Getting started →](https://openintentschema.io/getting-started/
 | Repository | What's inside | Get it |
 |---|---|---|
 | [**openintentschema**](https://github.com/openintentschema/openintentschema) | Specification, JSON Schema, conformance fixtures, profiles, website | [openintentschema.io](https://openintentschema.io) |
-| [**tools**](https://github.com/openintentschema/tools) | Reference CLI `ois`: validator, test report adapters, passports, signing (Python) | [PyPI](https://pypi.org/project/ois-tools/) · [Container](https://github.com/orgs/openintentschema/packages/container/package/ois-tools) |
+| [**tools**](https://github.com/openintentschema/tools) | Reference CLI `ois`: validator, test report adapters, passports, signing (Python; the container image runs it in projects of any language) | [PyPI](https://pypi.org/project/ois-tools/) · [Docker](https://github.com/orgs/openintentschema/packages/container/package/ois-tools) |
 | [**tools-js**](https://github.com/openintentschema/tools-js) | Second validator implementation (Node.js) | [npm](https://www.npmjs.com/package/ois-tools) |
-
-The container image `ghcr.io/openintentschema/ois-tools` runs the Python tools in projects of any language.
 
 ## Conformance levels
 
