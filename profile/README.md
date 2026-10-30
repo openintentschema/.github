@@ -1,13 +1,11 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Open Intent Schema: what was asked, what was built, and the proof in between" src="assets/banner-light.svg" width="100%">
+  <img alt="Open Intent Schema: what was asked, what was built, and the proof in between. An open, vendor-neutral data standard that links requirements to independent evidence that software does what was asked, even when AI agents built it." src="assets/banner-light.svg" width="100%">
 </picture>
 </p>
 
 <br>
-
-**An open, vendor-neutral data standard** that links requirements to independent evidence that software does what was asked, even when AI agents built it.
 
 <a href="https://openintentschema.io/specification/"><img alt="Specification v0.1 working draft" src="https://img.shields.io/badge/spec-v0.1_working_draft-orange"></a>
 <a href="https://pypi.org/project/ois-tools/"><img alt="PyPI" src="https://img.shields.io/pypi/v/ois-tools?label=PyPI&color=blue"></a>
