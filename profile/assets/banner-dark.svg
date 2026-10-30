@@ -6,6 +6,7 @@
   <text x="64" y="244" font-size="21" fill="#a1a1aa">What was asked, what was built, and the proof in between.</text>
   <g fill="none" stroke="#71717a" stroke-width="1.5">
     <path d="M900 64V79" marker-end="url(#a)"/><path d="M900 116V131" marker-end="url(#a)"/><path d="M900 168V183" marker-end="url(#a)"/><path d="M900 220V235" marker-end="url(#a)"/>
+    <path d="M800 150H776V46H797" stroke-linejoin="round" marker-end="url(#a)"/>
   </g>
   <g font-size="16" font-weight="600" fill="#fafafa" text-anchor="middle">
     <rect x="800" y="30" width="200" height="32" rx="8" fill="#27272a" stroke="#fafafa" stroke-width="2"/><text x="900" y="51">Intent</text>

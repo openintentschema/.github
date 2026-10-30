@@ -1,26 +1,23 @@
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img alt="Open Intent Schema: what was asked, what was built, and the proof in between" src="assets/banner-light.svg" width="100%">
 </picture>
-
-<p align="center">
-  An open, vendor-neutral data standard that links requirements to independent evidence<br>
-  that software does what was asked, even when AI agents built it.
 </p>
 
-<p align="center">
-  <a href="https://openintentschema.io/specification/"><img alt="Specification v0.1 working draft" src="https://img.shields.io/badge/spec-v0.1_working_draft-27272a"></a>
-  <a href="https://pypi.org/project/ois-tools/"><img alt="PyPI" src="https://img.shields.io/pypi/v/ois-tools?label=PyPI&color=27272a"></a>
-  <a href="https://www.npmjs.com/package/ois-tools"><img alt="npm" src="https://img.shields.io/npm/v/ois-tools?label=npm&color=27272a"></a>
-  <a href="https://github.com/openintentschema/openintentschema/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Apache--2.0_·_CC_BY_4.0-27272a"></a>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://openintentschema.io"><b>Website</b></a> ·
-  <a href="https://openintentschema.io/getting-started/"><b>Getting started</b></a> ·
-  <a href="https://openintentschema.io/specification/"><b>Specification</b></a> ·
-  <a href="https://github.com/openintentschema/openintentschema/issues?q=label%3Arfc"><b>Open RFCs</b></a>
-</p>
+**An open, vendor-neutral data standard** that links requirements to independent evidence that software does what was asked, even when AI agents built it.
+
+<a href="https://openintentschema.io/specification/"><img alt="Specification v0.1 working draft" src="https://img.shields.io/badge/spec-v0.1_working_draft-orange"></a>
+<a href="https://pypi.org/project/ois-tools/"><img alt="PyPI" src="https://img.shields.io/pypi/v/ois-tools?label=PyPI&color=blue"></a>
+<a href="https://www.npmjs.com/package/ois-tools"><img alt="npm" src="https://img.shields.io/npm/v/ois-tools?label=npm&color=blue"></a>
+<a href="https://github.com/openintentschema/openintentschema/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Apache--2.0_·_CC_BY_4.0-green"></a>
+
+**[Website](https://openintentschema.io)** ·
+**[Getting started](https://openintentschema.io/getting-started/)** ·
+**[Specification](https://openintentschema.io/specification/)** ·
+**[Open RFCs](https://github.com/openintentschema/openintentschema/issues?q=label%3Arfc)**
 
 ## What is OIS?
 
